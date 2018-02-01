@@ -1,4 +1,4 @@
-# holman/ama
+# bangalorebits/ama
 
 A repository to ask [@bangalorebits](https://twitter.com/bangalorebits) anything.
 
